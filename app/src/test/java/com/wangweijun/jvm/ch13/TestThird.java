@@ -10,6 +10,7 @@ import java.util.Vector;
  * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
  */
 public class TestThird {
+
     private static Vector<Integer> vector = new Vector<Integer>();
 
     @Test
